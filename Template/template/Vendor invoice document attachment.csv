@@ -1,0 +1,2 @@
+DOCUMENTID,DEFAULTATTACHMENT,FILENAME,FILETYPE,HEADERREFERENCE,NAME,NOTES,RESTRICTION,TYPEID,FileContentsFileName
+{docid},Yes,{filename},pdf,{invoiceno},{description},,Internal,File,invoice.pdf
